@@ -25,3 +25,8 @@ end
 def using_concat(arrays1, arrays2)
 return arrays1.concat(arrays2)
 end
+
+def using_insert
+
+end
+  
