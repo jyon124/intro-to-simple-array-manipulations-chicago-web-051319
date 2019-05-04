@@ -15,3 +15,5 @@ return array.pop(2)
 end
 
 def using_shift
+
+end
