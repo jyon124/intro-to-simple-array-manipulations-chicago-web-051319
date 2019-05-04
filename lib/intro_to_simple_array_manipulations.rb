@@ -40,5 +40,5 @@ return new_array
 end
 
 def using_delete(array, string)
-
+return array.delete(string)
 end
