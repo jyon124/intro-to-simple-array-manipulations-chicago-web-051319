@@ -33,3 +33,8 @@ end
 def using_uniq(array)
 return array.uniq
 end
+
+def using_flatten(array)
+  new_array = array.flatten
+return new_array
+end
